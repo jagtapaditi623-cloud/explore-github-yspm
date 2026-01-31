@@ -7,3 +7,5 @@ Aishvarya
 Shreya
 Anushka 
 Tejaswii
+Priyanka
+Gayatri
